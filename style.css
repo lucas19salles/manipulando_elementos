@@ -1,5 +1,5 @@
 body {
-  background-color: #245764;
+  background-color: #eee;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -22,7 +22,7 @@ h1 {
   font-size: 1.4rem;
   text-transform: uppercase;
   font-weight: 800;
-  color: #d1d1d1;
+  color: #333;
   text-align: center;
 }
 
